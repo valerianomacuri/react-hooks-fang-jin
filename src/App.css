@@ -1,0 +1,28 @@
+body {
+    background: #f7f2e4;
+    color: #482e19;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin: 1rem;
+}
+
+li.active {
+    border-bottom: 2px solid black;
+}
+
+button {
+    border: none;
+    background: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1 {
+    padding: 0 3rem;
+}
